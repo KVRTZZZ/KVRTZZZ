@@ -9,9 +9,6 @@
 
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
-
-[![](https://github-readme-stats.vercel.app/api?username=kvrtzzz&theme=dark&count_private=true&show_icons=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
-
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=kvrtzzz&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
